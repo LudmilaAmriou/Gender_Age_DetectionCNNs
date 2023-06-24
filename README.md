@@ -1,16 +1,8 @@
-# arduinoflutter2
-
-A new Flutter project.
+# Age and Gender Detection
+Training a deep learning Model (CNN) to detect the age and gender of a person through a picture or a webcam.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This model is trained on UTKFACE dataset.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Link to database](https://docs.flutter.dev/get-started/codelab](https://www.kaggle.com/datasets/jangedoo/utkface-new)
